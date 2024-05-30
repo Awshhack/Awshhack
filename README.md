@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Awshhack
-- 👀 I’m interested in coding and proggramming
+- 👀 I’m interested in coding and programming
 - 🌱 I’m currently learning moringa
 - 💞️ I’m looking to collaborate on javascript
 - 📫 How to reach me email :meshkiks@gmail.com
